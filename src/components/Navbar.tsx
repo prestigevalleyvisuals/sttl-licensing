@@ -46,7 +46,7 @@ export default function Navbar() {
           <div className="relative h-12 w-16 md:h-14 md:w-20">
             <Image
               src="/brand/logo.png"
-              alt="South Texas Liquor Licensing"
+              alt="South Texas Liquor Licensing LLC.>"
               fill
               priority
               sizes="80px"
@@ -56,7 +56,7 @@ export default function Navbar() {
 
           <div className="leading-tight">
             <div className="text-sm font-semibold md:text-base">South Texas Liquor</div>
-            <div className="text-sm font-semibold md:text-base">Licensing</div>
+            <div className="text-sm font-semibold md:text-base">Licensing LLC.</div>
           </div>
         </Link>
 
