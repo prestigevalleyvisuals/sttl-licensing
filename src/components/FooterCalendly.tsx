@@ -75,7 +75,7 @@ export default function FooterCalendly() {
         )}
 
         <div className="mt-10 text-xs text-white/55">
-          © {new Date().getFullYear()} South Texas Liquor Licensing. All rights reserved.
+          © {new Date().getFullYear()} South Texas Liquor License LLC. All rights reserved.
         </div>
       </div>
     </footer>
