@@ -5,7 +5,7 @@ export default function AboutPage() {
   return (
     <div className="mx-auto max-w-6xl px-6 pt-10">
       <h1 className="text-4xl font-extrabold tracking-tight md:text-5xl">
-        About South Texas Liquor Licensing LLC.
+        About South Texas Liquor License LLC.
       </h1>
       <p className="mt-3 max-w-3xl text-white/85">
         We help businesses navigate liquor licensing and compliance with clear guidance, fast
@@ -19,7 +19,7 @@ export default function AboutPage() {
           <div className="mt-4 space-y-4 text-sm leading-7 text-white/88">
             <p>
               Dee Bazaldua is a true Texan entrepreneur who has made a name for herself as the
-              owner of South Texas Liquor Licensing LLC. From Palmview, Texas, Dee is a dedicated
+              owner of South Texas Liquor License LLC. From Palmview, Texas, Dee is a dedicated
               businesswoman who has helped countless businesses navigate the complex world of liquor
               licensing in the state of Texas.
             </p>
@@ -30,7 +30,7 @@ export default function AboutPage() {
               clients with all aspects of the liquor licensing process.
             </p>
             <p>
-              As the owner of South Texas Liquor Licensing LLC, Dee is committed to providing her clients
+              As the owner of South Texas Liquor License LLC, Dee is committed to providing her clients
               with personalized service and building long-term relationships. Although based in the
               Rio Grande Valley, she works with clients all over Texas.
             </p>

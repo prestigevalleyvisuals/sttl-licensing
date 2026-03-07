@@ -64,7 +64,7 @@ export default function HomePage() {
       {/* HERO TEXT (above carousel) */}
       <section className="rounded-3xl border border-white/10 bg-black/35 p-7 backdrop-blur-md md:p-10">
         <h1 className="text-4xl font-extrabold tracking-tight md:text-5xl">
-          South Texas Liquor Licensing LLC.
+          South Texas Liquor License LLC.
         </h1>
 
         <p className="mt-3 text-base text-white/85 md:text-lg">

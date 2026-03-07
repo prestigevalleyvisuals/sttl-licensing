@@ -7,7 +7,7 @@ import FooterCalendly from "@/components/FooterCalendly";
 import MobileCallBar from "@/components/MobileCallBar";
 
 export const metadata: Metadata = {
-  title: "South Texas Liquor Licensing",
+  title: "South Texas Liquor License LLC.",
   description: "Liquor licensing and business compliance made simple.",
 };
 
