@@ -1,5 +1,5 @@
 export const site = {
-  name: "South Texas Liquor Licensing LLC",
+  name: "South Texas Liquor License LLC.",
   tagline: "Liquor licensing and business compliance made simple — anywhere in Texas.",
   phoneDisplay: "956-227-0996",
   phoneHref: "tel:+19562270996",
