@@ -75,7 +75,8 @@ export default function FooterCalendly() {
         )}
 
         <div className="mt-10 text-xs text-white/55">
-          © {new Date().getFullYear()} South Texas Liquor License LLC. All rights reserved.
+          © {new Date().getFullYear()} South Texas Liquor License LLC. All rights reserved Powered by PRESTIGE VALLEY VISUALS 
+          CALL 956-935-7771 FOR YOUR NEW WEBSITE!
         </div>
       </div>
     </footer>
